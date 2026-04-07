@@ -125,7 +125,7 @@ A total of **20 points** can be awarded across three categories:
 Please keep the following in mind:
 
 - ⏰ **Duration**: 3 minutes for the **pitch** and 3 minutes for **Q&A**
-- **Time Slot**: 2–3 pm, **24.04**
+- **Time Slot**: 2–3 pm, **09.04**
 - Maximum of **2 people presenting** per team
 - **Room**: TBA
 - Bring your pitch on your **own device** (adapters for USB-C and HDMI will be available)
