@@ -1,6 +1,6 @@
 # <p align="center"> Picnic Challenge @ Q-Hack 2026 </p>
 
-## Build the World's Greenest Supermarket
+## The Effortless Grocery Journey
 
 ### 📄 Problem Statement
 Why are families still managing shopping lists in 2026? Online groceries is built on convenience, but building
