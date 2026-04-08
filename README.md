@@ -139,4 +139,4 @@ Please ensure your `.pptx` file meets the following:
 - **Audio files must be embedded** (not linked)
 - Embedded audio should **play automatically**
 
-> ⚠️ The presentation you show must be **identical** to the one submitted in your GitHub repository under [**Project Submission**](https://q-summit.notion.site/Project-Submission-1bd024b9b73b8110bd64d7a581e0f8da)
+> ⚠️ The presentation you show must be **identical** to the one submitted in your GitHub repository under [**Project Submission**](https://q-summit.notion.site/Project-Submission-204024b9b73b81fca382eb5a27e03af6)
